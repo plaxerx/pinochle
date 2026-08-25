@@ -1,0 +1,21 @@
+{
+    "id": "Pinochle",
+    "name": "Pinochle",
+    "author": ["plaxerx"],
+    "description": "vanilla-friendly toolbox to supplement existing mods, add some fun sandbox challenges, a \"prismatic\" deck that combines all vanilla decks, and a future shop peeker (may not work 100% with modded content)",
+    "prefix": "pin",
+    "main_file": "main.lua",
+    "version": "0.1.0",
+    "priority": 5,
+    "badge_colour": "C448BE",
+    "badge_text_colour": "FFFFFF",
+    "display_name": "Pinochle",
+    "icon_path": "pin_icon.png",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-0400)"
+    ],
+    "conflicts": [
+        "MoarVanillaPlease"
+    ],
+    "provides": []
+}
